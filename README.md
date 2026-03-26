@@ -1,2 +1,2 @@
 ## Project name: RE Shop Web UI project
-## Team members: 
+## Team members: 2
